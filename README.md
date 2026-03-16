@@ -21,4 +21,4 @@ Analyse de la Supply Chain & Optimisation des coûts
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![QualCoder](https://img.shields.io/badge/QualCoder-Data_Analyse_Qualitative-4B0082?style=for-the-badge&logo=python&logoColor=white)
 
-Découvrez comment je transforme des données narratives complexes en décisions stratégiques [Lien vers le projet]".
+Découvrez comment je transforme des données narratives complexes en décisions stratégiques https://github.com/belinguinepatricia/Qualitative-Analysis-Qualcoder-Movemement-Awareness.git
