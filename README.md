@@ -1,3 +1,5 @@
+<img width="1408" height="768" alt="Image" src="https://github.com/user-attachments/assets/70c36e84-1809-41e2-9386-0957c012d370" />
+
 Data Analyst | Expertise BI & Insights Client | 6 ans d'expérience en environnements complexes
 
 "Spécialiste de la donnée avec une forte capacité à transformer des flux d'informations hétérogènes en outils d'aide à la décision. Mon expertise repose sur une maîtrise avancée de la Business Intelligence (Power BI, DAX, Excel) et de l'Analyse Qualitative (QualCoder).
